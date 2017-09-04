@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "564df239670111c92e601307fcda247f"
+build_time: [557849760, 306322000]
+inputs:
+  "/Users/Johannes/dev/iTRob/SwiftyJSON/Source/Coder.swift": [557849756, 0]
+  "/Users/Johannes/dev/iTRob/SwiftyJSON/Source/Dictionary+MapValues.swift": [557849694, 0]
+  "/Users/Johannes/dev/iTRob/SwiftyJSON/Source/SwiftyJSON.swift": [557849606, 0]

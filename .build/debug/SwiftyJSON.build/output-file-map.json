@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/master.swiftdeps"
+  },
+  "/Users/Johannes/dev/iTRob/SwiftyJSON/Source/Coder.swift": {
+    "dependencies": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/Coder.d",
+    "object": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/Coder.swift.o",
+    "swiftmodule": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/Coder~partial.swiftmodule",
+    "swift-dependencies": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/Coder.swiftdeps"
+  },
+  "/Users/Johannes/dev/iTRob/SwiftyJSON/Source/Dictionary+MapValues.swift": {
+    "dependencies": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/Dictionary+MapValues.d",
+    "object": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/Dictionary+MapValues.swift.o",
+    "swiftmodule": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/Dictionary+MapValues~partial.swiftmodule",
+    "swift-dependencies": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/Dictionary+MapValues.swiftdeps"
+  },
+  "/Users/Johannes/dev/iTRob/SwiftyJSON/Source/SwiftyJSON.swift": {
+    "dependencies": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/SwiftyJSON.d",
+    "object": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/SwiftyJSON.swift.o",
+    "swiftmodule": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/SwiftyJSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/Johannes/dev/iTRob/SwiftyJSON/.build/debug/SwiftyJSON.build/SwiftyJSON.swiftdeps"
+  }
+}
